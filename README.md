@@ -343,10 +343,9 @@ This tool is designed for **educational and legitimate security research purpose
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Author**: Ethan Denbrok
+- **Email**: ethandenbrok@gmail.com
+- **LinkedIn**: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ethan-denbrok/))
 
 ## 🙏 Acknowledgments
 
