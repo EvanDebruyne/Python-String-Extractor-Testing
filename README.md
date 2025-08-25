@@ -345,7 +345,7 @@ This tool is designed for **educational and legitimate security research purpose
 
 - **Author**: Ethan Denbrok
 - **Email**: ethandenbrok@gmail.com
-- **LinkedIn**: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ethan-denbrok/))
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ethan-denbrok/)
 
 ## 🙏 Acknowledgments
 
